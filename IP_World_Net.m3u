@@ -1,2 +1,5 @@
 #EXTINF:-1 tvg-logo="https://allresultbd.com/wp-content/uploads/2020/11/TSports-TV.jpg" group-title="All", T Sports
 http://103.151.60.214:7444/1101/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/8/8c/Star_Jalsha_logo.png" group-title="All", Star Jalsha
+http://xtv.ooo:8080/live/logixs1176/logixs7562/245898.ts
