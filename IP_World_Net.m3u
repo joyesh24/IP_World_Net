@@ -6,3 +6,6 @@ http://xtv.ooo:8080/live/logixs1176/logixs7562/245898.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" group-title="All", Gazi TV
 http://103.151.60.214:7444/1102/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/0/06/Zee_Bangla_HD_with_slogan_(2018).png/revision/latest?cb=20210428094820" group-title="All", Zee Bangla
+http://starshare.live:8080/live/T20C227070225533/202210886677/23305.ts
